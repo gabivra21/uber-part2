@@ -14,4 +14,26 @@ public class Pessoa {
         this.avaliacao = avaliacao;
     }
 
+    public String getNome(){
+        return nome;
+    }
+
+    public void setNome(String nome){
+        this.nome = nome;
+    }
+
+    public String getEmail(){
+        return email;
+    }
+
+    public int getCelular(){
+        return celular;
+    }
+
+    public float getAvaliacao(){
+        return avaliacao;
+    }
+
+
+
 }
