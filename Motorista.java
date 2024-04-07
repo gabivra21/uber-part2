@@ -22,22 +22,6 @@ public class Motorista extends Pessoa {
         return tipoCorrida;
     }
 
-    public String getNome(){
-        return nome;
-    }
-
-    public float getAvaliacao(){
-        return avaliacao;
-    }
-
-    public String getEmail(){
-        return email;
-    }
-
-    public int getCelular(){
-        return celular;
-    }
-
 
     public void aceitarCorrida(){
 
