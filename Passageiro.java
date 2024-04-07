@@ -1,3 +1,4 @@
+
 public class Passageiro extends Pessoa{
 
 
@@ -27,9 +28,7 @@ public class Passageiro extends Pessoa{
         return avaliacao;
     }
 
-    public void chamarCorrida(){
 
-    }
     public void escolherCategoria(){
 
     }
